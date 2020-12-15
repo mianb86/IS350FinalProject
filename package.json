@@ -1,0 +1,20 @@
+{
+  "name": "is350final",
+  "version": "14.15.0",
+  "description": "Final Project Web App",
+  "main": "webserver.js",
+  "scripts": {
+    "start": "node webserver.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mianb86/IS350FinalProject.git"
+  },
+  "author": "Bilal Mian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mianb86/IS350FinalProject/issues"
+  },
+  "homepage": "https://github.com/mianb86/IS350FinalProject#readme"
+}
